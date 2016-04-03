@@ -1,0 +1,7 @@
+c:\users\alaa\documents\visual studio 2015\Projects\AutoBracketsTextBox\AutoBracketsTextBox\obj\Debug\AutoBracketsTextBox.csprojResolveAssemblyReference.cache
+c:\users\alaa\documents\visual studio 2015\Projects\AutoBracketsTextBox\AutoBracketsTextBox\obj\Debug\AutoBracketsTextBoxNS.Properties.Resources.resources
+c:\users\alaa\documents\visual studio 2015\Projects\AutoBracketsTextBox\AutoBracketsTextBox\obj\Debug\AutoBracketsTextBox.csproj.GenerateResource.Cache
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\AutoBracketsTextBox\bin\Debug\AutoBracketsTextBox.dll
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\AutoBracketsTextBox\bin\Debug\AutoBracketsTextBox.pdb
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\AutoBracketsTextBox\obj\Debug\AutoBracketsTextBox.dll
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\AutoBracketsTextBox\obj\Debug\AutoBracketsTextBox.pdb

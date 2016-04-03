@@ -1,0 +1,14 @@
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\bin\Debug\Tester.exe
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\bin\Debug\Tester.pdb
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.Form1.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.SimplestSample.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.exe
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.pdb
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.SimpleTextEditor.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.PowerulTextEditor.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\obj\Debug\Tester.StringsAutoComplete.resources
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\bin\Debug\AutoBracketsTextBox.dll
+C:\Users\Alaa\Documents\Visual Studio 2015\Projects\AutoBracketsTextBox\Tester\bin\Debug\AutoBracketsTextBox.pdb
